@@ -1,2 +1,2 @@
-# Aprendizaje-Autom-tico
+# Aprendizaje-Automatico
 Andres Merino 
